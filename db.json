@@ -3,7 +3,6 @@
     {
       "id": 1,
       "nombre": "Joseph 'Joey' Tribbiani Jr.",
-      "nacimiento": "9 de enero 1968",
       "ocupacion": "Actor",
       "avatar": "img/joeytribbiani.jpeg",
       "descripcion": "how you doing?"
@@ -11,7 +10,6 @@
     {
       "id": 2,
       "nombre": "Mónica Geller",
-      "nacimiento": "22 de abril del 1969",
       "ocupacion": "Chef",
       "avatar": "img/monicageller.jpeg",
       "frase": "A pesar de su carácter extremadamente competitivo y su obsesión con la limpieza, es un personaje carismático y espontáneo, la más centrada del grupo."
@@ -19,7 +17,6 @@
     {
       "id": 3,
       "nombre": "Chandler Bing",
-      "nacimiento": "8 de abril de 1968",
       "ocupacion": "Actor",
       "avatar": "img/joeytribbiani.jpeg",
       "descripcion": "Impetuoso, loco y alejado de sus padres, tiene problemas de compromiso, causados por crecer en un hogar destrozado sin tener idea de como es un matrimonio estable, puede ser neurótico y extremadamente defensivo, pero su sentido de humor generalmente no es sofisticado."
@@ -27,7 +24,6 @@
     {
       "id": 4,
       "nombre": "Rachel Green",
-      "nacimiento": "5 de Mayo de 1971",
       "ocupacion": "Ejecutiva en Ralph Lauren",
       "avatar": "img/rachelgreen.jpeg",
       "descripcion": "Rachel se destacaba por ser la típica chica popular que formaba parte de los eventos más notables en la escuela."
@@ -35,7 +31,6 @@
     {
       "id": 5,
       "nombre": "Ross Geller",
-      "nacimiento": "18 Octubre de 1967",
       "ocupacion": "Paleontólogo",
       "avatar": "img/rossgeller.jpeg",
       "descripcion": "Doctorado en paleontología, tiene una fascinación por los dinosaurios y gracias a este nivel académico da clases en la universidad."
@@ -43,7 +38,6 @@
     {
       "id": 6,
       "nombre": "Phoebe Buffay",
-      "nacimiento": "16 de Febrero de 1967",
       "ocupacion": "Masajista y cantautora",
       "avatar": "img/phoebebuffay.jpeg",
       "descripcion": "Phoebe es una guitarrista de carácter dulce pero algo extraña. Al no haber experimentado una infancia normal y completa, a menudo muy ingenua, pero tiene un buen corazón."
